@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="login_msg">If you don\'t have an account register \nYou can <p style="color:4A59F5">Register here</p> !</string>
+</resources>
